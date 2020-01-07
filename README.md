@@ -11,7 +11,7 @@ https://nonprofitrisk.org/resources/articles/a-violation-of-trust-fraud-risk-in-
 The data for this project was aquired from Open990(https://www.open990.org/catalog/), an organization that aggregates and provides not-for-profit tax return data made public by the IRS.  This dataset has great documentation about what the attributes mean, however this only includes data for 1 year(2016).  The organization that provides this data also provides analytics services with this data for a fee. (https://appliednonprofitresearch.com/customdata/)
 
 Overview of data provided by open990
-https://medium.com/@open990/the-irs-990-e-file-dataset-getting-to-the-chocolatey-center-of-data-deliciousness-90f66097a600
+(https://medium.com/@open990/the-irs-990-e-file-dataset-getting-to-the-chocolatey-center-of-data-deliciousness-90f66097a600)
 
 ### Target Feature Creation:
 
