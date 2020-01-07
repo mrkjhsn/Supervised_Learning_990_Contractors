@@ -1,4 +1,4 @@
-### Which not-for-profits might be at the highest risk for fraud?
+## Which not-for-profits are at the highest risk for fraud?
 
 "One area in which nonprofit organizations seem particularly vulnerable is billing schemes, in which an employee fraudulently submits invoices to obtain payments he or she is not entitled to receive. According to the most recent ACFE survey, billing schemes were among the most common fraud methods in the cases studied for the 2012 report.
 
