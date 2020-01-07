@@ -22,7 +22,14 @@ Overview of data provided by open990
 1. Share of contractor expense as a percentage of total expenses
     - (average contractor payment * count of contractors over $100K) / total expenses
     - this will help identify organizations that spend a high percentage of their funds on contractors
-    
+____
+ ![](https://github.com/mrkjhsn/Supervised_Learning_990_Contractors/blob/master/visualizations/feature_interaction_three_1.png)
+ ![](https://github.com/mrkjhsn/Supervised_Learning_990_Contractors/blob/master/visualizations/feature_interaction_three_3.png)
+ ____
+ ![](https://github.com/mrkjhsn/Supervised_Learning_990_Contractors/blob/master/visualizations/feature_interaction_employee.png)
+ ![](https://github.com/mrkjhsn/Supervised_Learning_990_Contractors/blob/master/visualizations/feature_interaction_exp.png)
+
+
 ### ML Classification Goal:
 Can I predict not-for-profits that lie within the top quartile for the above two synthetic features, and therefore might be at a higher risk for contractor fraud?
 
